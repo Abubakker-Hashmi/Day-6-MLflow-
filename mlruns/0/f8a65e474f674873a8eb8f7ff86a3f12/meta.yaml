@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f8a65e474f674873a8eb8f7ff86a3f12/artifacts
+end_time: 1739614713418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8a65e474f674873a8eb8f7ff86a3f12
+run_name: respected-swan-166
+run_uuid: f8a65e474f674873a8eb8f7ff86a3f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739614713164
+status: 3
+tags: []
+user_id: Data Analyst

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e6b3c189ca8140fd83c16b9601390194/artifacts
+end_time: 1739613839327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6b3c189ca8140fd83c16b9601390194
+run_name: bouncy-mare-243
+run_uuid: e6b3c189ca8140fd83c16b9601390194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739613839283
+status: 3
+tags: []
+user_id: Data Analyst

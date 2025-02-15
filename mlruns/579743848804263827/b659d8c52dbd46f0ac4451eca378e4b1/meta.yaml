@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/579743848804263827/b659d8c52dbd46f0ac4451eca378e4b1/artifacts
+end_time: 1739624962793
+entry_point_name: ''
+experiment_id: '579743848804263827'
+lifecycle_stage: active
+run_id: b659d8c52dbd46f0ac4451eca378e4b1
+run_name: enchanting-ape-291
+run_uuid: b659d8c52dbd46f0ac4451eca378e4b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739624958847
+status: 3
+tags: []
+user_id: Data Analyst

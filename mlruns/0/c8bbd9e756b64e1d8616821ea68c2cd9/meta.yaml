@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c8bbd9e756b64e1d8616821ea68c2cd9/artifacts
+deleted_time: 1739613707712
+end_time: 1739613618237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c8bbd9e756b64e1d8616821ea68c2cd9
+run_name: rogue-ant-322
+run_uuid: c8bbd9e756b64e1d8616821ea68c2cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739613618204
+status: 4
+tags: []
+user_id: Data Analyst
